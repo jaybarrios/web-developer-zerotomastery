@@ -1,7 +1,7 @@
 # web-developer-zerotomastery
 Complete Web Developer Zero to Mastery
 
-This repository is for the Udemy course "The Complete Web Developer: Zero to Mastery Learn to code and become a Web Developer with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!"
+This repository is for the ZTM Academy course "The Complete Web Developer: Zero to Mastery Learn to code and become a Web Developer with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!"
 
 Created by Andrei Neagoie
 
