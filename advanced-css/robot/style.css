@@ -4,6 +4,9 @@ h1 {
 }
 
 .robots {
+	display: flex;
+	justify-content: center;
+	
 }
 
 .head, 
@@ -23,14 +26,15 @@ h1 {
 	margin-bottom: 10px;
 } 
 
-.eyes {
-	
-}
-
 .head:hover {
 	width: 300px;
     transition: 1s ease-in-out;
 }
+
+.eyes {
+	display: flex;
+}
+
 
 .upper_body { 
 	width: 300px; 
@@ -63,6 +67,8 @@ h1 {
 	height: 200px;
 	/* This is another useful property. Hmm what do you think it does?*/
 	margin: 0 auto;
+	display: inline-flex;
+	justify-content: end;
 
 } 
 
