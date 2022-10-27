@@ -10,6 +10,7 @@ html {
   -o-background-size:cover;
 }
 
+
 h1 {
   color: #fff;
 }
@@ -20,6 +21,10 @@ hr {
   border: 3px solid #F05F44;
   max-width: 65px;
   opacity: 1;  
+}
+
+.buffer {
+  height: 10rem;
 }
 
 .btn {
@@ -42,6 +47,7 @@ border-color: #F05F44;
 .btn-xl {
   padding: 1rem 2rem;
 }
+
 
 
 
